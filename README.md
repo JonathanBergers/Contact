@@ -20,5 +20,5 @@ From the terminal in your github repository, type the following commands:
   2. git remote add origin <your_repository_url>
   3. git push -u origin master
 
-If you have any issues at this point, do not perform step 5.
-  4. git remote rm github
+  If you have any issues at this point, do not perform step 5.
+4. git remote rm github
