@@ -23,4 +23,4 @@ From the terminal in your github repository, type the following commands:
 
 -- If you have any issues at this point, do not perform step 5.
 
-5. git remote rm github
+4. git remote rm github
