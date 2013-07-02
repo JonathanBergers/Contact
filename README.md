@@ -16,9 +16,9 @@ From here you should now rename your project and packagename.
 The easiest way to make this repo your own is to change the "remote branch" to your own repository. To do this, you need to change your current "origin" server (default name) to something else (e.g. github). Next you add a new origin branche refering to your own repo and finally delete the github server.
 
 From the terminal in your github repository, type the following commands:
-  1. git remote rename origin github
-  2. git remote add origin <your_repository_url>
-  3. git push -u origin master
+1. git remote rename origin github
+2. git remote add origin <your_repository_url>
+3. git push -u origin master
 
   If you have any issues at this point, do not perform step 5.
 4. git remote rm github
