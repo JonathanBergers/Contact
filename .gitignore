@@ -16,13 +16,11 @@
 bin/
 gen/
 .metadata/
+.settings
 
 # Local configuration file (sdk path, etc)
 local.properties
 *.metadata
-
-# Checkstyle
-.checkstyle
 
 # Mac specific
 .DS_Store

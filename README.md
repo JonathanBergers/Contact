@@ -22,3 +22,16 @@ From the terminal in your github repository, type the following commands:
   3. git push -u origin master
   4. NOTE: If you have any issues at this point, do not perform step 5.
   5. git remote rm github
+
+# Enable and use FindBugs and Checkstyle
+
+- To use Checkstyle and FindBugs you need to install the Eclipse plugins:
+	- Open Eclipse Market ( Help -> Eclipse Market )
+	- Find the CheckStyle Plug-in package and install it
+	- Find the FindBugs Eclipse Plugin package and install it
+	- Restart Eclipse and refresh your project settingsa (F5)
+
+- CheckStyle should be enabled by default. Check it's settings by right clicking on your project and choose Properties -> Checkstyle and find out if "Checkstyle active for this project" is checked. Checkstyles uses the supplied not-so-strict-checkstyle.xml file for it's checks. Feel free to change it.
+
+- To run FindBugs right click on your project and choose Find Bugs -> Find Bugs.
+
