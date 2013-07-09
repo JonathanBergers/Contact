@@ -29,7 +29,7 @@ From the terminal in your github repository, type the following commands:
 	- Open Eclipse Market ( Help -> Eclipse Market )
 	- Find the CheckStyle Plug-in package and install it
 	- Find the FindBugs Eclipse Plugin package and install it
-	- Restart Eclipse and refresh your project settingsa (F5)
+	- Restart Eclipse and refresh your project settings (F5)
 
 - CheckStyle should be enabled by default. Check it's settings by right clicking on your project and choose Properties -> Checkstyle and find out if "Checkstyle active for this project" is checked. Checkstyles uses the supplied not-so-strict-checkstyle.xml file for it's checks. Feel free to change it.
 
