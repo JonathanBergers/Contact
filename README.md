@@ -18,7 +18,7 @@ The easiest way to make this repo your own is to change the "remote branch" to y
 From the terminal in your github repository, type the following commands:
 
   1. git remote rename origin github
-  2. git remote add origin <your_repository_url>
+  2. git remote add origin \<your_repository_url\>
   3. git push -u origin master
   4. NOTE: If you have any issues at this point, do not perform step 5.
   5. git remote rm github
