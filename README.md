@@ -5,7 +5,7 @@ This template provides a default Android Project with a separate Android Test Pr
 
 # How to use this template
 1. Create a new workspace. (This is good practice!)
-2. Find a suitable location to clone the project and clone it! (If you use "git clone --depth 1 https://github.com/SaxionACT/AndroidApplicationWithRobotiumTest.git" you dont get all the history revisions.)
+2. Find a suitable location to clone the project and clone it! (If you use "git clone --depth 1 https://github.com/SaxionACT/AndroidApplicationWithRobotiumTest.git" you dont get all the history revisions. BUT THIS DOESN'T SEEM TO WORK, SO JUST USE A NORMAL CLONE!)
 3. Go to Eclipse and choose File -> Import ... -> General -> Existing Projects into Workspace -> Select root directory
 4. Now specify the just cloned directory and you should import 2 projects.
 5. Optionally, clean your project. (Project -> Clean ...)
